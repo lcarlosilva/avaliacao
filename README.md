@@ -14,9 +14,10 @@ Assim sucessivamente…
 <br>
 
 9 - Considerando a estrutura de uma árvore binária:
-public class BinaryTree {
-  int valor;
-  BinaryTree left;
-  BinaryTree right;
-}
+<br>
+public class BinaryTree {<br>
+  int valor;<br>
+  BinaryTree left;<br>
+  BinaryTree right;<br>
+}<br>
 Desenvolva um método que dado um nó da árvore calcule a soma de todos os nós subsequentes.

@@ -11,8 +11,8 @@ Assim sucessivamente…
 - Caso os números de A ou B sejam de tamanhos diferentes, completar C com o restante dos números do inteiro maior. Ex: A = 10256, B = 512, C deve ser 15012256.
 - Caso C seja maior que 1.000.000, retornar -1
 <br>
-<br>
 =================================================<br>
+<br>
 9 - Considerando a estrutura de uma árvore binária:<br>
 <br>
 public class BinaryTree {<br>

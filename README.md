@@ -12,7 +12,7 @@ Assim sucessivamente…
 - Caso C seja maior que 1.000.000, retornar -1
 <br>
 <br>
-=================================================
+=================================================<br>
 9 - Considerando a estrutura de uma árvore binária:<br>
 <br>
 public class BinaryTree {<br>
